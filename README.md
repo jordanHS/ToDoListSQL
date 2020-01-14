@@ -1,5 +1,5 @@
-# To To List : The C# Web App
-### By Rochelle Roberts
+# To Do List : The C# Web App
+### By Jordan Safford
 -----
 
 ## Description
